@@ -1,6 +1,4 @@
-:root {
-    --main-color: #fdffe9
-}
+
 
 .expense-item {
     display: flex;
@@ -10,7 +8,7 @@
     padding: 0.5rem;
     margin: 1rem 0;
     border-radius: 12px;
-    background-color: #4b4b4b;
+    background-color: #ff7171;
   }
   
   .expense-item__description {
@@ -24,7 +22,7 @@
   }
   
   .expense-item h2 {
-    color: #3a3a3a;
+    color: #00ff2a;
     font-size: 1rem;
     flex: 1;
     margin: 0 1rem;
